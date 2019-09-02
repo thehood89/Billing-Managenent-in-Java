@@ -1,0 +1,35 @@
+
+
+Version:	3.10
+CmdLine:	C:\Hotel Billing Mgmt\Hotel Billing Software.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Hotel Billing Mgmt\.
+Java min ver:	1.0.1
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_152\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_152
+Check launcher:	C:\Program Files\Java\jre1.8.0_152\bin\javaw.exe (OK)
+Match:		1.8.0_152
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_152
+Ignore:		1.8.0_152
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\9.0.4
+Check launcher:	C:\Program Files\Java\jre-9.0.4\bin\javaw.exe (OK)
+Match:		9.0.4
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\9.0.1
+Ignore:		9.0.1
+Runtime used:	9.0.4 (64-bit)
+Launcher:	C:\Program Files\Java\jre-9.0.4\bin\javaw.exe
+Launcher args:	-jar "C:\Hotel Billing Mgmt\Hotel Billing Software.exe"
+Args length:	55/32768 chars
+Exit code:	0
